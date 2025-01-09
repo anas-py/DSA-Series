@@ -1,2 +1,2 @@
-# print progrma
+# print program
 print("Hello, Anas!")
